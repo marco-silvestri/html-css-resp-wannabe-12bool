@@ -12,3 +12,7 @@ img {
   margin: auto;
   height: 180px;
 }
+
+section {
+  padding: 3% 0;
+}
